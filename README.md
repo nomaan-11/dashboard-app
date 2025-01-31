@@ -35,8 +35,8 @@ Follow these steps to run the project on your local system:
    ```sh
    npm install
 
-   Running the Development Server
-    ```sh
+**Running the Development Server**
+
     npm run dev
 
 Deployed Application
